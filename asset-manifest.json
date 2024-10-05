@@ -1,32 +1,18 @@
 {
   "files": {
-    "main.css": "/shellConsultancyInvoiceGenerator/static/css/main.a6f201a0.chunk.css",
-    "main.js": "/shellConsultancyInvoiceGenerator/static/js/main.30d91b56.chunk.js",
-    "main.js.map": "/shellConsultancyInvoiceGenerator/static/js/main.30d91b56.chunk.js.map",
-    "runtime-main.js": "/shellConsultancyInvoiceGenerator/static/js/runtime-main.1414e14b.js",
-    "runtime-main.js.map": "/shellConsultancyInvoiceGenerator/static/js/runtime-main.1414e14b.js.map",
-    "static/js/2.bf0cc968.chunk.js": "/shellConsultancyInvoiceGenerator/static/js/2.bf0cc968.chunk.js",
-    "static/js/2.bf0cc968.chunk.js.map": "/shellConsultancyInvoiceGenerator/static/js/2.bf0cc968.chunk.js.map",
-    "static/css/3.7ec82a1e.chunk.css": "/shellConsultancyInvoiceGenerator/static/css/3.7ec82a1e.chunk.css",
-    "static/js/3.66e0094a.chunk.js": "/shellConsultancyInvoiceGenerator/static/js/3.66e0094a.chunk.js",
-    "static/js/3.66e0094a.chunk.js.map": "/shellConsultancyInvoiceGenerator/static/js/3.66e0094a.chunk.js.map",
-    "static/js/4.09d0d8b6.chunk.js": "/shellConsultancyInvoiceGenerator/static/js/4.09d0d8b6.chunk.js",
-    "static/js/4.09d0d8b6.chunk.js.map": "/shellConsultancyInvoiceGenerator/static/js/4.09d0d8b6.chunk.js.map",
-    "static/js/5.97f8cc74.chunk.js": "/shellConsultancyInvoiceGenerator/static/js/5.97f8cc74.chunk.js",
-    "static/js/5.97f8cc74.chunk.js.map": "/shellConsultancyInvoiceGenerator/static/js/5.97f8cc74.chunk.js.map",
+    "main.css": "/shellConsultancyInvoiceGenerator/static/css/main.9a5c6096.css",
+    "main.js": "/shellConsultancyInvoiceGenerator/static/js/main.1abee280.js",
+    "static/js/213.0d70a6bf.chunk.js": "/shellConsultancyInvoiceGenerator/static/js/213.0d70a6bf.chunk.js",
+    "static/js/732.4f42727a.chunk.js": "/shellConsultancyInvoiceGenerator/static/js/732.4f42727a.chunk.js",
+    "static/media/logo.png": "/shellConsultancyInvoiceGenerator/static/media/logo.6bfc4488184fbc4b055b.png",
     "index.html": "/shellConsultancyInvoiceGenerator/index.html",
-    "static/css/3.7ec82a1e.chunk.css.map": "/shellConsultancyInvoiceGenerator/static/css/3.7ec82a1e.chunk.css.map",
-    "static/css/main.a6f201a0.chunk.css.map": "/shellConsultancyInvoiceGenerator/static/css/main.a6f201a0.chunk.css.map",
-    "static/js/2.bf0cc968.chunk.js.LICENSE.txt": "/shellConsultancyInvoiceGenerator/static/js/2.bf0cc968.chunk.js.LICENSE.txt",
-    "static/js/3.66e0094a.chunk.js.LICENSE.txt": "/shellConsultancyInvoiceGenerator/static/js/3.66e0094a.chunk.js.LICENSE.txt",
-    "static/js/4.09d0d8b6.chunk.js.LICENSE.txt": "/shellConsultancyInvoiceGenerator/static/js/4.09d0d8b6.chunk.js.LICENSE.txt",
-    "static/media/logo.6bfc4488.png": "/shellConsultancyInvoiceGenerator/static/media/logo.6bfc4488.png"
+    "main.9a5c6096.css.map": "/shellConsultancyInvoiceGenerator/static/css/main.9a5c6096.css.map",
+    "main.1abee280.js.map": "/shellConsultancyInvoiceGenerator/static/js/main.1abee280.js.map",
+    "213.0d70a6bf.chunk.js.map": "/shellConsultancyInvoiceGenerator/static/js/213.0d70a6bf.chunk.js.map",
+    "732.4f42727a.chunk.js.map": "/shellConsultancyInvoiceGenerator/static/js/732.4f42727a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1414e14b.js",
-    "static/css/3.7ec82a1e.chunk.css",
-    "static/js/3.66e0094a.chunk.js",
-    "static/css/main.a6f201a0.chunk.css",
-    "static/js/main.30d91b56.chunk.js"
+    "static/css/main.9a5c6096.css",
+    "static/js/main.1abee280.js"
   ]
 }
