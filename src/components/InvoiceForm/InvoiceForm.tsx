@@ -7,7 +7,7 @@ import Form from 'react-bootstrap/Form';
 import Card from 'react-bootstrap/Card';
 import InvoiceItem from '../InvoiceItem/InvoiceItem';
 import InputGroup from 'react-bootstrap/InputGroup';
-import InvoiceModal from '../InvoiceModal/InvoiceModal';
+import InvoiceModal from '../invoiceModal/InvoiceModal';
 
 // Define types for state and props
 interface InvoiceItemType {

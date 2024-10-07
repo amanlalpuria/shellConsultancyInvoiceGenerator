@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import GetClientsData from './components/DAO/GetClientsData';
-import InvoiceForm from './components/InvoiceForm/InvoiceForm';
+import GetClientsData from './components/dao/GetClientsData';
+import InvoiceForm from './components/invoiceForm/InvoiceForm';
 import { Container } from 'react-bootstrap';
 
 function App() {
